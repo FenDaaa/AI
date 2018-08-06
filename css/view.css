@@ -1,0 +1,11 @@
+.td1{
+    opacity: 0.2;
+    cursor: not-allowed;
+}
+.table>thead:first-child>tr:first-child>th {
+    text-align: center;
+}
+
+.fixed-table-container tbody tr td {
+    text-align: center;
+}
